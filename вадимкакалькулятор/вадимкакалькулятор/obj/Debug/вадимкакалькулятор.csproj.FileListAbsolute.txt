@@ -1,0 +1,10 @@
+C:\Users\пользователь\source\repos\вадимкакалькулятор\вадимкакалькулятор\bin\Debug\вадимкакалькулятор.exe.config
+C:\Users\пользователь\source\repos\вадимкакалькулятор\вадимкакалькулятор\bin\Debug\вадимкакалькулятор.exe
+C:\Users\пользователь\source\repos\вадимкакалькулятор\вадимкакалькулятор\bin\Debug\вадимкакалькулятор.pdb
+C:\Users\пользователь\source\repos\вадимкакалькулятор\вадимкакалькулятор\obj\Debug\вадимкакалькулятор.csprojAssemblyReference.cache
+C:\Users\пользователь\source\repos\вадимкакалькулятор\вадимкакалькулятор\obj\Debug\вадимкакалькулятор.Form1.resources
+C:\Users\пользователь\source\repos\вадимкакалькулятор\вадимкакалькулятор\obj\Debug\вадимкакалькулятор.Properties.Resources.resources
+C:\Users\пользователь\source\repos\вадимкакалькулятор\вадимкакалькулятор\obj\Debug\вадимкакалькулятор.csproj.GenerateResource.cache
+C:\Users\пользователь\source\repos\вадимкакалькулятор\вадимкакалькулятор\obj\Debug\вадимкакалькулятор.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\source\repos\вадимкакалькулятор\вадимкакалькулятор\obj\Debug\вадимкакалькулятор.exe
+C:\Users\пользователь\source\repos\вадимкакалькулятор\вадимкакалькулятор\obj\Debug\вадимкакалькулятор.pdb
